@@ -1,2 +1,2 @@
 # Demo
-Demo of Git2
+Demo of Git3
